@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "dev.imran.files.Configuration.FileConfiguration",
+      "sourceType": "dev.imran.files.Configuration.FileConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.path",
+      "type": "java.lang.String",
+      "sourceType": "dev.imran.files.Configuration.FileConfiguration"
+    }
+  ],
+  "hints": []
+}
